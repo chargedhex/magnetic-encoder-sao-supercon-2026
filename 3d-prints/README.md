@@ -5,16 +5,23 @@ I have included the .FDStd file (open with FreeCAD to edit) where they are all i
 
 Knob Shaft 2 is shaped as it is to make support removal a bit easier for 3d printing, but wave overhangs also work well with its current geometry.
 
+## Knob Base
 ![Knob_Base](images/Knob_Base.png "Knob Base Photo")
 
+## Knob Base 2
 ![Knob_Base_2](images/Knob_Base_2.png "Knob Base 2 Photo")
 
+## Knob Base 3
 ![Knob_Base_3](images/Knob_Base_3.png "Knob Base 3 Photo")
 
+## Knob Top
 ![Knob_Top](images/Knob_Top.png "Knob Top Photo")
 
+## Knob Shaft
 ![Knob_Shaft](images/Knob_Shaft.png "Knob Shaft Photo")
 
+## Knob Top 2
 ![Knob_Top_2](images/Knob_Top_2.png "Knob Top 2 Photo")
 
+## Knob Shaft 2
 ![Knob_Shaft_2](images/Knob_Shaft_2.png "Knob Shaft 2 Photo")
